@@ -39,3 +39,9 @@ In this guided project, the main goal is to use **SQL** skills to answer busines
 ### Predicting Car Prices using KNN
 
 Although this project is at Dataquest's guided projects section, it is actually only based out of one. The main goal in this project is to predict car prices using the k-Nearest Neighbors Regressor. The libraries used are: **pandas**, **NumPy**, **matplotlib** and **scikit-learn**. The repo can be found [here](https://github.com/caiovps1/KNN-Predicting-Car-Prices).
+
+## Kaggle Competitions
+
+### Titanic: Machine Learning from Disaster
+
+This competition from Kaggle is recommended for beginners to practice ML skills, going from exploring the data, getting insights and then making predictions. It was my job to predict if a passenger survived the sinking of the Titanic or not. This was my first contact with Kaggle, a great website for Data Scientists. The libraries used are: **pandas**, **NumPy**, **matplotlib**, **seaborn** and **scikit-learn**, and my final score (until now) is **78,47%** accuracy, obtained from a  **Random Forest** model. The repo can be found [here](https://github.com/caiovps1/Titanic-Survival-Prediction/blob/master/project.ipynb).
