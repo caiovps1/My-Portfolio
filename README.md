@@ -2,6 +2,10 @@
 
 This portfolio is a compilation of project which I've done for practicing data analysis, data visualization and for exploration of machine learning algorithms.
 
+## Personal Projects
+
+### Retail Sales Analysis
+Data proves to be a pushing force of the industry, and one in particular that get the most out of it is retail. With this in mind, I've done this data analysis project using data from a retail company that possesses 45 shops in the USA. My focus was to, along with the practice of **data analysis** in general, improve my **portuguese storytelling**, as I tried to simulate what it would be to present this project to the manager. The notebook (in portuguese) can be found [here](https://github.com/caiovps1/Retail-Sales-Analysis/blob/main/project.ipynb).
 
 ## IGTI Bootcamp - Data Scientist
 
@@ -37,7 +41,7 @@ The notebook can be found [here](https://github.com/caiovps1/Employee-Exit-Surve
 
 ### Answering Business Questions using SQLite
 
-In this project, the main goal is to use **SQL** skills to answer **business questions**. The database used is the Chinook database, which contains data from a fictional music store. The notebook can be found [here](https://github.com/caiovps1/Business-Questions-SQL/blob/master/project.ipynb).
+In this project, the main goal is to use **SQL** skills by creating **complex queries** to answer **business questions**. The database used is the Chinook database, which contains data from a fictional music store. The notebook can be found [here](https://github.com/caiovps1/Business-Questions-SQL/blob/master/project.ipynb).
 
 
 ### Predicting Car Prices using KNN
